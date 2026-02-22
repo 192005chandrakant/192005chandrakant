@@ -105,9 +105,7 @@ I believe in writing clean, optimized, and production-ready code while continuou
 
 # 📊 GitHub Performance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=192005chandrakant&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=192005chandrakant&theme=tokyonight&hide_border=true" />
