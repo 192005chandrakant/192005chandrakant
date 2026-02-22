@@ -1,114 +1,168 @@
 <h1 align="center">Hi 👋, I'm Chandrakant Tripathi</h1>
-<h3 align="center">🚀 MERN Stack Developer | AI Enthusiast | Tech Innovator from India 🇮🇳</h3>
+
+<h3 align="center">
+🚀 Full Stack Developer | Blockchain Builder | AI Enthusiast  
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;AI+Driven+Problem+Solver;Future+Tech+Entrepreneur;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=CGPA+9.59+Computer+Science+Engineer;Blockchain+%7C+AI+%7C+MERN+Stack+Developer;Building+Scalable+Real+World+Systems;Infocepts+Impact+Scholarship+Recipient;Future+Tech+Entrepreneur" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 Professional Introduction
 
-- 🎓 Computer Science Engineering Student  
-- 📍 Nagpur, Maharashtra, India  
-- 💡 Passionate about AI, Blockchain & Modern Web Technologies  
-- 🔥 Building Scalable Real-World Projects  
-- 📚 Completed **NPTEL Data Structures & Algorithms (IIT Kharagpur)**  
-- 🌱 Currently Exploring Advanced AI Integration & System Design  
-- 🎯 Goal: Build impactful AI-driven platforms & Tech Startups  
+🎓 I am a **Computer Science Engineering student (CGPA: 9.59)** at  
+**Priyadarshini College of Engineering, Nagpur (2023–2027)**.
+
+I am a highly motivated and growth-driven developer with strong foundations in:
+
+- Data Structures & Algorithms  
+- Artificial Intelligence & Machine Learning  
+- Database Systems  
+- Blockchain Development  
+- Full Stack Web Engineering  
+
+💡 I specialize in building **scalable, secure, real-world applications** that combine:
+
+- Modern Web Technologies  
+- Cloud Infrastructure  
+- Smart Contracts  
+- AI Integration  
+
+I believe in writing clean, optimized, and production-ready code while continuously learning cutting-edge technologies.
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Tech Arsenal
 
-### 🚀 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,js,typescript,bootstrap,tailwind" />
+## 💻 Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,solidity,html,css" />
 </p>
 
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,appwrite,firebase" />
+## ⚙️ Frameworks & Libraries
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind" />
 </p>
 
-### 🗄️ Database
-<p>
+## 🗄️ Databases
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🤖 AI & Other Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,linux,vscode" />
+## ☁️ Tools & Platforms
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,firebase,appwrite,vscode" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
-
-### 🔹 Auto Reply AI Chatbot
-- Intelligent chatbot built using Python
-- Real-time automated response system
-- Designed for smart communication automation
-
-### 🔹 Community Compass
-- Platform for migrant workers to access government schemes
-- Multilingual & Responsive Design
-- Built using HTML, CSS, JavaScript & Bootstrap
-
-### 🔹 Smart Education Platform (In Progress)
-- AI-powered learning dashboard
-- Admin, Teacher & User Roles
-- Advanced UI with intelligent features
-
-### 🔹 Currency Converter Web App
-- Real-time currency data integration using API
-- Dynamic exchange calculation
-- Clean & user-friendly UI
+# 🌟 Major Projects
 
 ---
 
-## 📊 GitHub Stats
+## 🔗 TraceChain – Blockchain Product Traceability System  
+**Tech Stack:** React | Node.js | MongoDB | Solidity | Hardhat | JWT | Tailwind | Cloudinary  
+
+✨ Built a full-stack blockchain-based system for **end-to-end product lifecycle tracking**.
+
+### 🔹 Key Highlights:
+- Role-based authentication (Admin, Manufacturer, Consumer)
+- Ethereum Smart Contract integration using Hardhat
+- Immutable product registration on blockchain
+- QR Code generation for real-time verification
+- Secure file uploads via Cloudinary
+- JWT-based secure access system
+
+---
+
+## 🎥 YOOM – Zoom-like Video Conferencing App  
+**Tech Stack:** Next.js | TypeScript | Tailwind | Stream | Clerk  
+
+✨ Developed a real-time video conferencing platform.
+
+### 🔹 Features:
+- Live video streaming with Stream
+- Secure authentication via Clerk
+- Responsive & modern UI
+- Meeting creation & multi-user management
+
+---
+
+## 🎙️ Voice Recognition Assistant  
+**Tech Stack:** Python | gTTS | pyttsx3 | speech_recognition | Gemini API | NewsAPI  
+
+✨ Designed an intelligent virtual assistant capable of:
+
+- Voice command recognition  
+- News fetching and reading  
+- Smart web browsing  
+- Music playback  
+- Gemini AI-powered intelligent responses  
+
+---
+
+# 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=192005chandrakant&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=192005chandrakant&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=192005chandrakant&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=192005chandrakant&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=192005chandrakant&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=192005chandrakant&theme=react-dark" />
-</p>
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🎖 NPTEL - Data Structures & Algorithms (IIT Kharagpur)
-- 💻 Built 10+ Full Stack & Frontend Projects
-- 📊 190+ Contributions in the last year
-- 🔥 Actively Improving System Design & AI Skills
+🏅 Infocepts Impact Scholarship Recipient (1st, 2nd & 3rd Year)  
+🎖 NPTEL – Data Structures & Algorithms (IIT Kharagpur)  
+🎓 Machine Learning for Engineering Applications – IIT Madras  
+📜 NodeJS with Express & MongoDB – Scaler  
 
 ---
 
-## 📫 Connect With Me
+# 📚 Core Knowledge Areas
+
+- Data Structures & Algorithms  
+- Artificial Intelligence  
+- Machine Learning  
+- Operating Systems  
+- Computer Networks  
+- Network Security  
+- DBMS  
+- OOPS  
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
+<a href="mailto:chandrakanttripathi192005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/chandrakant-tripathi-867063287">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:chandrakanttripathi192005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/192005chandrakant">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 💡 Developer Mindset
+# 💭 Developer Philosophy
 
 ```text
-Code. Learn. Build. Innovate. Repeat.
-Turning Ideas into Intelligent Solutions.
+Learn Deeply.
+Build Consistently.
+Think Scalable.
+Ship Production-Ready Systems.
