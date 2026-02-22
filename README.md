@@ -1,116 +1,114 @@
-<h1 align="center">Hi 👋, I'm Chandrakant Tripathi</h1>
+<!-- ================== HEADER ================== -->
 
-<h3 align="center">
-🚀 Full Stack Developer | Blockchain Builder | AI Enthusiast  
-</h3>
+<h1 align="center">⚡ Chandrakant Tripathi ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=CGPA+9.59+Computer+Science+Engineer;Blockchain+%7C+AI+%7C+MERN+Stack+Developer;Building+Scalable+Real+World+Systems;Infocepts+Impact+Scholarship+Recipient;Future+Tech+Entrepreneur" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Blockchain+System+Builder;AI+Powered+Application+Developer;CGPA+9.59+%7C+Scholarship+Recipient;Building+Scalable+Tech+for+the+Future" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=192005chandrakant&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧠 Professional Introduction
+# 🧠 ENGINEER PROFILE
 
-🎓 I am a **Computer Science Engineering student ** at  
-**Priyadarshini College of Engineering, Nagpur (2023–2027)**.
+🚀 Computer Science Engineer (CGPA: **9.59**)  
+🎓 Priyadarshini College of Engineering (2023–2027)  
+🏅 Infocepts Impact Scholarship Recipient (3 Consecutive Years)
 
-I am a highly motivated and growth-driven developer with strong foundations in:
+I build **secure, scalable, production-grade systems** combining:
 
-- Data Structures & Algorithms  
-- Artificial Intelligence & Machine Learning  
-- Database Systems  
-- Blockchain Development  
-- Full Stack Web Engineering  
+• MERN Stack  
+• Blockchain Infrastructure  
+• AI Integration  
+• Cloud Deployment  
+• Role-Based Authentication Systems  
 
-💡 I specialize in building **scalable, secure, real-world applications** that combine:
-
-- Modern Web Technologies  
-- Cloud Infrastructure  
-- Smart Contracts  
-- AI Integration  
-
-I believe in writing clean, optimized, and production-ready code while continuously learning cutting-edge technologies.
+I don’t just build projects.  
+I build **systems designed for scale, security, and real-world deployment.**
 
 ---
 
-# 🚀 Tech Arsenal
+# ⚔️ TECH STACK DOMINATION
 
-## 💻 Languages
+### 💻 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,solidity,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,solidity,html,css" />
 </p>
 
-## ⚙️ Frameworks & Libraries
+### 🚀 Frontend & UI Engineering
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
 </p>
 
-## 🗄️ Databases
+### ⚙️ Backend & Infrastructure
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,docker,kubernetes" />
 </p>
 
-## ☁️ Tools & Platforms
+### 🔐 Blockchain & Web3
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,firebase,appwrite,vscode" />
+<img src="https://skillicons.dev/icons?i=solidity,hardhat" />
+</p>
+
+### ☁️ Tools & DevOps
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,firebase,appwrite,vscode" />
 </p>
 
 ---
 
-# 🌟 Major Projects
+# 🔥 FLAGSHIP PROJECTS
+
+## 🔗 TraceChain – Blockchain Traceability Engine
+
+> Full-stack decentralized product lifecycle system
+
+✔ Role-Based Authentication (Admin / Manufacturer / Consumer)  
+✔ Ethereum Smart Contracts (Hardhat)  
+✔ Immutable Blockchain Data Storage  
+✔ QR-Based Product Verification  
+✔ JWT Security  
+✔ Cloudinary Secure File Uploads  
+
+Built for transparency, trust & real-world supply chains.
 
 ---
 
-## 🔗 TraceChain – Blockchain Product Traceability System  
-**Tech Stack:** React | Node.js | MongoDB | Solidity | Hardhat | JWT | Tailwind | Cloudinary  
+## 🎥 YOOM – Real-Time Video Communication Platform
 
-✨ Built a full-stack blockchain-based system for **end-to-end product lifecycle tracking**.
+✔ Built with Next.js + TypeScript  
+✔ Stream-based high-quality video integration  
+✔ Clerk authentication  
+✔ Fully responsive Tailwind UI  
+✔ Multi-user meeting architecture  
 
-### 🔹 Key Highlights:
-- Role-based authentication (Admin, Manufacturer, Consumer)
-- Ethereum Smart Contract integration using Hardhat
-- Immutable product registration on blockchain
-- QR Code generation for real-time verification
-- Secure file uploads via Cloudinary
-- JWT-based secure access system
+Production-ready architecture for live systems.
 
 ---
 
-## 🎥 YOOM – Zoom-like Video Conferencing App  
-**Tech Stack:** Next.js | TypeScript | Tailwind | Stream | Clerk  
+## 🎙️ AI Voice Recognition Assistant
 
-✨ Developed a real-time video conferencing platform.
+✔ Speech Recognition  
+✔ NewsAPI Integration  
+✔ Gemini AI Intelligent Responses  
+✔ Text-to-Speech + Music Playback  
+✔ Smart Command-Based Execution  
 
-### 🔹 Features:
-- Live video streaming with Stream
-- Secure authentication via Clerk
-- Responsive & modern UI
-- Meeting creation & multi-user management
-
----
-
-## 🎙️ Voice Recognition Assistant  
-**Tech Stack:** Python | gTTS | pyttsx3 | speech_recognition | Gemini API | NewsAPI  
-
-✨ Designed an intelligent virtual assistant capable of:
-
-- Voice command recognition  
-- News fetching and reading  
-- Smart web browsing  
-- Music playback  
-- Gemini AI-powered intelligent responses  
+AI-powered automation through natural interaction.
 
 ---
 
-# 📊 GitHub Performance
+# 📊 GITHUB IMPACT
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=192005chandrakant&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=192005chandrakant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=192005chandrakant&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=192005chandrakant&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
@@ -119,28 +117,30 @@ I believe in writing clean, optimized, and production-ready code while continuou
 
 ---
 
-# 🏆 Achievements
- 
-🎖 NPTEL – Data Structures & Algorithms (IIT Kharagpur)  
-🎓 Machine Learning for Engineering Applications – IIT Madras  
+# 🏆 ACHIEVEMENTS
+
+🏅 Infocepts Impact Scholarship – 3 Years  
+🎓 NPTEL – Data Structures & Algorithms (IIT Kharagpur)  
+🎓 Machine Learning – IIT Madras  
 📜 NodeJS with Express & MongoDB – Scaler  
 
 ---
 
-# 📚 Core Knowledge Areas
+# 🧩 CORE ENGINEERING STRENGTH
 
-- Data Structures & Algorithms  
-- Artificial Intelligence  
-- Machine Learning  
-- Operating Systems  
-- Computer Networks  
-- Network Security  
-- DBMS  
-- OOPS  
+• Data Structures & Algorithms  
+• Artificial Intelligence  
+• Machine Learning  
+• Database Systems  
+• Computer Networks  
+• Operating Systems  
+• Network Security  
+
+Strong theoretical foundation + practical execution.
 
 ---
 
-# 📫 Connect With Me
+# 🌍 CONNECT WITH ME
 
 <p align="center">
 <a href="mailto:chandrakanttripathi192005@gmail.com">
@@ -158,10 +158,11 @@ I believe in writing clean, optimized, and production-ready code while continuou
 
 ---
 
-# 💭 Developer Philosophy
+# 🧠 ENGINEERING PHILOSOPHY
 
 ```text
-Learn Deeply.
-Build Consistently.
+Build Secure.
 Think Scalable.
-Ship Production-Ready Systems.
+Integrate Intelligence.
+Ship Production Systems.
+Repeat.
