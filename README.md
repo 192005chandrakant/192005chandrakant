@@ -12,7 +12,7 @@
 
 ## 🧠 Professional Introduction
 
-🎓 I am a **Computer Science Engineering student (CGPA: 9.59)** at  
+🎓 I am a **Computer Science Engineering student ** at  
 **Priyadarshini College of Engineering, Nagpur (2023–2027)**.
 
 I am a highly motivated and growth-driven developer with strong foundations in:
@@ -120,8 +120,7 @@ I believe in writing clean, optimized, and production-ready code while continuou
 ---
 
 # 🏆 Achievements
-
-🏅 Infocepts Impact Scholarship Recipient (1st, 2nd & 3rd Year)  
+ 
 🎖 NPTEL – Data Structures & Algorithms (IIT Kharagpur)  
 🎓 Machine Learning for Engineering Applications – IIT Madras  
 📜 NodeJS with Express & MongoDB – Scaler  
