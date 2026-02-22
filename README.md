@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=CGPA+9.59+Computer+Science+Engineer;Blockchain+%7C+AI+%7C+MERN+Stack+Developer;Building+Scalable+Real+World+Systems;Infocepts+Impact+Scholarship+Recipient;Future+Tech+Entrepreneur" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Blockchain+%7C+AI+%7C+MERN+Stack+Developer;Building+Scalable+Real+World+Systems;Future+Tech+Entrepreneur" />
 </p>
 
 ---
